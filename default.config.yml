@@ -6,15 +6,15 @@ configure_sudoers: yes
 configure_terminal: yes
 configure_osx: yes
 
-dotfiles_repo: https://github.com/geerlingguy/dotfiles.git
-dotfiles_repo_accept_hostkey: yes
-dotfiles_repo_local_destination: ~/Dropbox/Development/GitHub/dotfiles
-dotfiles_files:
-  - .bash_profile
-  - .gitignore
-  - .inputrc
-  - .osx
-  - .vimrc
+#dotfiles_repo: https://github.com/geerlingguy/dotfiles.git
+#dotfiles_repo_accept_hostkey: yes
+#dotfiles_repo_local_destination: ~/Dropbox/Development/GitHub/dotfiles
+#dotfiles_files:
+#  - .bash_profile
+#  - .gitignore
+#  - .inputrc
+#  - .osx
+#  - .vimrc
 
 homebrew_installed_packages:
   # - ansible # Installed via Pip.
@@ -31,7 +31,6 @@ homebrew_installed_packages:
   - httpie
   - iperf
   - libevent
-  - sqlite
   - mcrypt
   - nmap
   - node
@@ -43,6 +42,10 @@ homebrew_installed_packages:
   - pv
   - wget
   - wrk
+  - libyaml
+  - libpng
+  - jpeg
+  - zlib
 
 homebrew_taps:
   - homebrew/core
@@ -61,12 +64,13 @@ homebrew_cask_apps:
   - limechat
   - macvim
   - sequel-pro
-  - skitch
   - slack
   - sublime-text
   - transmit
   - vagrant
   - virtualbox
+  - atom
+  - vlc
 
 # See `geerlingguy.mas` role documentation for usage instructions.
 mas_installed_apps: []
