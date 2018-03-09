@@ -143,6 +143,10 @@ These are mostly direct download links, some are more difficult to install becau
     git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
     ```
 
+## ToDo
+
+- Tweak macOS settings like: https://blog.vandenbrand.org/2016/01/04/how-to-automate-your-mac-os-x-setup-with-ansible/
+
 ## Author
 
 This is forked from
