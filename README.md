@@ -128,6 +128,8 @@ It's my hope that I can get the rest of these things wrapped up into Ansible pla
   8. Install [Drone CLI](https://github.com/drone/drone-cli)
   9. Install go with cross-compile action: brew install go --cross-compile-common
  10. Install vim: brew install vim --with-python --with-ruby --with-perl
+ 11. mac tilling
+ 12. https://github.com/arialdomartini/oh-my-git
 
 ### Applications/packages to be added:
 
