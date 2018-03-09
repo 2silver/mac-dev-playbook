@@ -134,6 +134,9 @@ These are mostly direct download links, some are more difficult to install becau
 
   - [iShowU HD](http://www.shinywhitebox.com/downloads/iShowU_HD_2.3.20.dmg)
   - [BitBar](https://getbitbar.com/)
+  - iTerm2
+  - Hyper -> https://justinzimmerman.net/post/switching-from-iterm-to-hyperterm/
+  - PowerlineGo -> https://github.com/justjanne/powerline-go
 
 ### Configuration to be added:
 
@@ -142,10 +145,14 @@ These are mostly direct download links, some are more difficult to install becau
     mkdir -p ~/.vim/autoload
     git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
     ```
+  - Configure go -> https://mnafian.github.io/2016/10/26/Install-Go-by-Homebrew-OSX.html
 
 ## ToDo
 
-- Tweak macOS settings like: https://blog.vandenbrand.org/2016/01/04/how-to-automate-your-mac-os-x-setup-with-ansible/
+Tweak macOS settings like:
+
+- https://blog.vandenbrand.org/2016/01/04/how-to-automate-your-mac-os-x-setup-with-ansible/
+- https://github.com/geerlingguy/dotfiles/blob/master/.osx
 
 ## Author
 
