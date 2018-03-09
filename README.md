@@ -154,6 +154,7 @@ Tweak macOS settings like:
 
 - https://blog.vandenbrand.org/2016/01/04/how-to-automate-your-mac-os-x-setup-with-ansible/
 - https://github.com/geerlingguy/dotfiles/blob/master/.osx
+- Use Dracule iterm2 theme -> https://draculatheme.com/
 
 ## Author
 
