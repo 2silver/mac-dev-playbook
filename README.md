@@ -90,7 +90,6 @@ Packages (installed with Homebrew):
   - gettext
   - gifsicle
   - git
-  - go
   - gpg
   - hub
   - iperf
@@ -127,6 +126,7 @@ It's my hope that I can get the rest of these things wrapped up into Ansible pla
   6. Configure extra Mail and/or Calendar accounts (e.g. Google, Exchange, etc.).
   7. Install [Docker](https://www.docker.com/)
   8. Install [Drone CLI](https://github.com/drone/drone-cli)
+  9. Install go with cross-compile action: brew install go --cross-compile-common
 
 ### Applications/packages to be added:
 
@@ -146,6 +146,7 @@ These are mostly direct download links, some are more difficult to install becau
     git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
     ```
   - Configure go -> https://mnafian.github.io/2016/10/26/Install-Go-by-Homebrew-OSX.html
+  - https://gauravsohoni.wordpress.com/2017/01/01/mac-os-install-golang-with-homebrew/
 
 ## ToDo
 
