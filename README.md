@@ -130,6 +130,9 @@ It's my hope that I can get the rest of these things wrapped up into Ansible pla
  10. Install vim: brew install vim --with-python --with-ruby --with-perl
  11. mac tilling
  12. https://github.com/arialdomartini/oh-my-git
+ 13. https://github.com/twolfson/sexy-bash-prompt
+ 14. Just use https://gist.github.com/kevin-smets/8568070
+ 15. https://rick.cogley.info/post/use-homebrew-zsh-instead-of-the-osx-default/
 
 ### Applications/packages to be added:
 
